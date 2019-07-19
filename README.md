@@ -1,1 +1,1 @@
-# VedioSeg
+# VideoSeg
